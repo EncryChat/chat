@@ -17,4 +17,4 @@ If you want to run the server with default arguments only type ``` encrychat-ser
 In https://github.com/EncryChat/the-project repository, you can read about the security.
 
 ## License
-Project is under MIT license, read more about this in [License](LICENSE.md)
+Project is under MIT license, read more about this in [License](LICENSE)
