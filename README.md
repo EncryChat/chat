@@ -1,20 +1,15 @@
-<h1 align="center"> EncryChat Server </h1>
+<h1 align="center"> EncryChat </h1>
 
-## How to use
+## What is this?
 
-The **EncryChat Server** have 4 optional arguments:
--p or --port | Port to server listen
---over-tor | Create service over the Tor network
---tor-port | Port on tor is running
--l or --listen | Max connections to listen
+EncryChat is a encrypted chat, created to keep the freedom of expression in highly censored countries, to see more about the project and the security of the chat, etc.
+Read the https://github.com/EncryChat/the-project  repository.
 
-If you want to run the server with default arguments only type ``` encrychat-server ``` on terminal
+## How to install
 
 
-## TO INSTALL READ https://github.com/EncryChat/installation
-
-## EncryChat Security
-In https://github.com/EncryChat/the-project repository, you can read about the security.
+## More about the project
+https://github.com/EncryChat/the-project
 
 ## License
-Project is under MIT license, read more about this in [License](LICENSE)
+This project is under the MIT license, read this in [LICENSE](LICENSE).
